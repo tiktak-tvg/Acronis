@@ -2,7 +2,13 @@
 
 ##### Установка агента acronis для esxi
 
+Устанавливаем агента acronis на esxi.
+
+Далее подключаем его.
+
 ![image_2025-03-15_13-33-45](https://github.com/user-attachments/assets/014c8917-c3c8-4d30-8421-d92d4f52bd1b)
+
+IP адрес агента acronis
 
 ![image_2025-03-15_13-34-56](https://github.com/user-attachments/assets/2d5a6cca-e5d8-4a74-9ab0-fbc4c2d5b3cf)
 
